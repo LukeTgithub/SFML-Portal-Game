@@ -1,5 +1,7 @@
 # SFML-Portal-Game
 
+Go to [<> Code] and hit "download ZIP"
+
 Unzip the download and run the .exe (SFML-Static_Portal_Game).
 Works on keyboard and standard controllers.
 
