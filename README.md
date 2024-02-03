@@ -1,6 +1,6 @@
 # SFML-Portal-Game
 
-Unzip the download and run the .exe.
+Unzip the download and run the .exe (SFML-Static_Portal_Game).
 Works on keyboard and standard controllers.
 
 WARNING: !----VERY BUGGY-----!
